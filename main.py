@@ -123,6 +123,10 @@ twitch_miner.mine(
         "Umiiie",
         "Murloka",
         "BlytheOnee",
+        "OcultoGK",
+        "JhinkDGS",
+        "kallibrado_",
+        "sadicaz",
         "miratortatv",
         "jovemexp"
     ],                                  # Array of streamers (order = priority)
