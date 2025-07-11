@@ -121,7 +121,7 @@ twitch_miner.mine(
         Streamer("Kinntaroo"),
         "Feliperas",
         "pedrosinh0",
-        "xMarombaxGames",
+        "AfricaAlbion",
         "BlytheOnee",
         "OcultoGK",
         "JhinkDGS",
