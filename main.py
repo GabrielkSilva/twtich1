@@ -122,7 +122,6 @@ twitch_miner.mine(
         "Feliperas",
         "pedrosinh0",
         "AfricaAlbion",
-        "BlytheOnee",
         "OcultoGK",
         "JhinkDGS",
         "kallibrado_",
