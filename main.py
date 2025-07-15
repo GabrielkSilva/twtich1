@@ -119,6 +119,7 @@ twitch_miner.mine(
         Streamer("jamesrenascido"),
         Streamer("nemezizyt"),
         Streamer("Kinntaroo"),
+        "darlenshape",
         "Feliperas",
         "pedrosinh0",
         "AfricaAlbion",
